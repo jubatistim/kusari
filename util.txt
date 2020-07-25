@@ -1,0 +1,13 @@
+py -3 -m venv venv37
+
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+venv37/Scripts/Activate.ps1
+clear
+
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/jubatistim/_template_python.git
+git push -u origin master
