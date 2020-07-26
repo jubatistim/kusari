@@ -9,5 +9,5 @@ clear
 git init
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/jubatistim/_template_python.git
+git remote add origin https://github.com/jubatistim/kusari.git
 git push -u origin master
