@@ -11,3 +11,11 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/jubatistim/kusari.git
 git push -u origin master
+
+
+
+
+print('***************************')
+print(l_fit)
+print(r_fit)
+print('---------------------------') 
